@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Be Focus</string>
+    <string name="welcome_task">welcome TASK screen</string>
+    <string name="welcome_pomo">welcome POMORODO screen</string>
+    <string name="welcome_setting">welcome SETTING screen</string>
+    <string name="welcome_perform">welcome PERFORMANCE screen</string>
+    <string name="welcome_info">welcome INFO screen</string>
+    <string name="ManageTask">Task</string>
+    <string name="StayFocus">Pomodoro</string>
+    <string name="TrackProgress">Performance</string>
+    <string name="Setting">Setting</string>
+    <string name="InfoScreen">Info</string>
+</resources>
